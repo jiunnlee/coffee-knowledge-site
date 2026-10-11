@@ -1,0 +1,532 @@
+[
+  {
+    "id": "hero-2",
+    "type": "hero",
+    "subject": "macro roasted coffee beans on a walnut cooling tray, side lighting and deep shadows, sculptural tactile closeup",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website hero image. Primary request: macro roasted coffee beans on a walnut cooling tray, side lighting and deep shadows, sculptural tactile closeup. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 16:9, 2048x1152 requested, generous negative space. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：macro roasted coffee beans on a walnut cooling tray, side lighting and deep shadows, sculptural tactile closeup",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站hero",
+    "aiIllustration": true
+  },
+  {
+    "id": "hero-3",
+    "type": "hero",
+    "subject": "pour over coffee ritual beside large rainy window, ceramic dripper, glass server and thoughtful calm atmosphere",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website hero image. Primary request: pour over coffee ritual beside large rainy window, ceramic dripper, glass server and thoughtful calm atmosphere. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 16:9, 2048x1152 requested, generous negative space. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：pour over coffee ritual beside large rainy window, ceramic dripper, glass server and thoughtful calm atmosphere",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站hero",
+    "aiIllustration": true
+  },
+  {
+    "id": "topic-1",
+    "type": "topic",
+    "subject": "roasted whole beans beside unbranded paper pouch, artisanal still life",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website topic image. Primary request: roasted whole beans beside unbranded paper pouch, artisanal still life. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：roasted whole beans beside unbranded paper pouch, artisanal still life",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站topic",
+    "aiIllustration": true
+  },
+  {
+    "id": "topic-2",
+    "type": "topic",
+    "subject": "manual ceramic pour over brewer and gooseneck kettle pouring clear stream",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website topic image. Primary request: manual ceramic pour over brewer and gooseneck kettle pouring clear stream. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：manual ceramic pour over brewer and gooseneck kettle pouring clear stream",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站topic",
+    "aiIllustration": true
+  },
+  {
+    "id": "topic-3",
+    "type": "topic",
+    "subject": "three tasting cups with aromatic citrus peel flowers nuts behind them",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website topic image. Primary request: three tasting cups with aromatic citrus peel flowers nuts behind them. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：three tasting cups with aromatic citrus peel flowers nuts behind them",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站topic",
+    "aiIllustration": true
+  },
+  {
+    "id": "topic-4",
+    "type": "topic",
+    "subject": "open coffee journal with blank pages and black coffee in handmade cup",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website topic image. Primary request: open coffee journal with blank pages and black coffee in handmade cup. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：open coffee journal with blank pages and black coffee in handmade cup",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站topic",
+    "aiIllustration": true
+  },
+  {
+    "id": "topic-5",
+    "type": "topic",
+    "subject": "coffee cherries on tropical leafy branches",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website topic image. Primary request: coffee cherries on tropical leafy branches. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：coffee cherries on tropical leafy branches",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站topic",
+    "aiIllustration": true
+  },
+  {
+    "id": "topic-6",
+    "type": "topic",
+    "subject": "colorful creative iced coffee with orange slices rosemary and clear ice",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website topic image. Primary request: colorful creative iced coffee with orange slices rosemary and clear ice. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：colorful creative iced coffee with orange slices rosemary and clear ice",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站topic",
+    "aiIllustration": true
+  },
+  {
+    "id": "topic-7",
+    "type": "topic",
+    "subject": "abstract scientific still life of fine and coarse grounds in separate glass dishes",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website topic image. Primary request: abstract scientific still life of fine and coarse grounds in separate glass dishes. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：abstract scientific still life of fine and coarse grounds in separate glass dishes",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站topic",
+    "aiIllustration": true
+  },
+  {
+    "id": "topic-8",
+    "type": "topic",
+    "subject": "rustic landscape coffee harvest baskets without identifiable people",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website topic image. Primary request: rustic landscape coffee harvest baskets without identifiable people. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：rustic landscape coffee harvest baskets without identifiable people",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站topic",
+    "aiIllustration": true
+  },
+  {
+    "id": "topic-9",
+    "type": "topic",
+    "subject": "coffee roast beans from light brown to dark brown in four unlabeled bowls",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website topic image. Primary request: coffee roast beans from light brown to dark brown in four unlabeled bowls. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：coffee roast beans from light brown to dark brown in four unlabeled bowls",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站topic",
+    "aiIllustration": true
+  },
+  {
+    "id": "topic-10",
+    "type": "topic",
+    "subject": "artisan roasting service concept with green beans and roasted beans in parallel trays",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website topic image. Primary request: artisan roasting service concept with green beans and roasted beans in parallel trays. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：artisan roasting service concept with green beans and roasted beans in parallel trays",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站topic",
+    "aiIllustration": true
+  },
+  {
+    "id": "recipes-1",
+    "type": "recipes",
+    "subject": "orange espresso tonic with sparkling bubbles ice and thin orange wheel",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website recipes image. Primary request: orange espresso tonic with sparkling bubbles ice and thin orange wheel. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：orange espresso tonic with sparkling bubbles ice and thin orange wheel",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站recipes",
+    "aiIllustration": true
+  },
+  {
+    "id": "recipes-2",
+    "type": "recipes",
+    "subject": "iced oat milk latte layered espresso and creamy oat milk in clear glass",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website recipes image. Primary request: iced oat milk latte layered espresso and creamy oat milk in clear glass. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：iced oat milk latte layered espresso and creamy oat milk in clear glass",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站recipes",
+    "aiIllustration": true
+  },
+  {
+    "id": "recipes-3",
+    "type": "recipes",
+    "subject": "brown sugar cinnamon warm latte in ceramic cup with cinnamon stick",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website recipes image. Primary request: brown sugar cinnamon warm latte in ceramic cup with cinnamon stick. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：brown sugar cinnamon warm latte in ceramic cup with cinnamon stick",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站recipes",
+    "aiIllustration": true
+  },
+  {
+    "id": "recipes-4",
+    "type": "recipes",
+    "subject": "cocoa mocha coffee with natural cocoa dust in handmade cup",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website recipes image. Primary request: cocoa mocha coffee with natural cocoa dust in handmade cup. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：cocoa mocha coffee with natural cocoa dust in handmade cup",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站recipes",
+    "aiIllustration": true
+  },
+  {
+    "id": "recipes-5",
+    "type": "recipes",
+    "subject": "coconut iced coffee with coconut milk swirl and coconut pieces",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website recipes image. Primary request: coconut iced coffee with coconut milk swirl and coconut pieces. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：coconut iced coffee with coconut milk swirl and coconut pieces",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站recipes",
+    "aiIllustration": true
+  },
+  {
+    "id": "recipes-6",
+    "type": "recipes",
+    "subject": "lemon cold brew sparkling water in clear glass with lemon peel",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website recipes image. Primary request: lemon cold brew sparkling water in clear glass with lemon peel. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：lemon cold brew sparkling water in clear glass with lemon peel",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站recipes",
+    "aiIllustration": true
+  },
+  {
+    "id": "recipes-7",
+    "type": "recipes",
+    "subject": "maple coffee latte with amber maple syrup in small pitcher",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website recipes image. Primary request: maple coffee latte with amber maple syrup in small pitcher. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：maple coffee latte with amber maple syrup in small pitcher",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站recipes",
+    "aiIllustration": true
+  },
+  {
+    "id": "recipes-8",
+    "type": "recipes",
+    "subject": "honey black coffee beside tiny honey jar and wooden spoon",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website recipes image. Primary request: honey black coffee beside tiny honey jar and wooden spoon. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：honey black coffee beside tiny honey jar and wooden spoon",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站recipes",
+    "aiIllustration": true
+  },
+  {
+    "id": "recipes-9",
+    "type": "recipes",
+    "subject": "vanilla iced latte with vanilla pod and milk swirl",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website recipes image. Primary request: vanilla iced latte with vanilla pod and milk swirl. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：vanilla iced latte with vanilla pod and milk swirl",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站recipes",
+    "aiIllustration": true
+  },
+  {
+    "id": "recipes-10",
+    "type": "recipes",
+    "subject": "sea salt caramel iced coffee with subtle foam and caramel ribbon",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website recipes image. Primary request: sea salt caramel iced coffee with subtle foam and caramel ribbon. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：sea salt caramel iced coffee with subtle foam and caramel ribbon",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站recipes",
+    "aiIllustration": true
+  },
+  {
+    "id": "recipes-11",
+    "type": "recipes",
+    "subject": "rose milk coffee with food safe dried rose buds beside cup",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website recipes image. Primary request: rose milk coffee with food safe dried rose buds beside cup. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：rose milk coffee with food safe dried rose buds beside cup",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站recipes",
+    "aiIllustration": true
+  },
+  {
+    "id": "recipes-12",
+    "type": "recipes",
+    "subject": "cardamom warm coffee with cardamom pods beside handmade cup",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website recipes image. Primary request: cardamom warm coffee with cardamom pods beside handmade cup. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：cardamom warm coffee with cardamom pods beside handmade cup",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站recipes",
+    "aiIllustration": true
+  },
+  {
+    "id": "recipes-13",
+    "type": "recipes",
+    "subject": "ginger cold brew with sliced fresh ginger and clear ice",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website recipes image. Primary request: ginger cold brew with sliced fresh ginger and clear ice. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：ginger cold brew with sliced fresh ginger and clear ice",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站recipes",
+    "aiIllustration": true
+  },
+  {
+    "id": "recipes-14",
+    "type": "recipes",
+    "subject": "mint espresso soda with fresh mint sprig sparkling bubbles",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website recipes image. Primary request: mint espresso soda with fresh mint sprig sparkling bubbles. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：mint espresso soda with fresh mint sprig sparkling bubbles",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站recipes",
+    "aiIllustration": true
+  },
+  {
+    "id": "recipes-15",
+    "type": "recipes",
+    "subject": "berry cold brew with sliced strawberries and blueberries on the side",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website recipes image. Primary request: berry cold brew with sliced strawberries and blueberries on the side. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：berry cold brew with sliced strawberries and blueberries on the side",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站recipes",
+    "aiIllustration": true
+  },
+  {
+    "id": "origins-1",
+    "type": "origins",
+    "subject": "Ethiopian highland coffee farm landscape with green canopy morning mist",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website origins image. Primary request: Ethiopian highland coffee farm landscape with green canopy morning mist. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：Ethiopian highland coffee farm landscape with green canopy morning mist",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站origins",
+    "aiIllustration": true
+  },
+  {
+    "id": "origins-2",
+    "type": "origins",
+    "subject": "Colombian mountain coffee slopes dramatic cloudscape",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website origins image. Primary request: Colombian mountain coffee slopes dramatic cloudscape. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：Colombian mountain coffee slopes dramatic cloudscape",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站origins",
+    "aiIllustration": true
+  },
+  {
+    "id": "origins-3",
+    "type": "origins",
+    "subject": "Brazilian coffee farmland rolling rows warm late afternoon light",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website origins image. Primary request: Brazilian coffee farmland rolling rows warm late afternoon light. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：Brazilian coffee farmland rolling rows warm late afternoon light",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站origins",
+    "aiIllustration": true
+  },
+  {
+    "id": "origins-4",
+    "type": "origins",
+    "subject": "Guatemalan coffee hills volcano far background",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website origins image. Primary request: Guatemalan coffee hills volcano far background. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：Guatemalan coffee hills volcano far background",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站origins",
+    "aiIllustration": true
+  },
+  {
+    "id": "origins-5",
+    "type": "origins",
+    "subject": "Kenyan red soil coffee branches and misty hills",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website origins image. Primary request: Kenyan red soil coffee branches and misty hills. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：Kenyan red soil coffee branches and misty hills",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站origins",
+    "aiIllustration": true
+  },
+  {
+    "id": "origins-6",
+    "type": "origins",
+    "subject": "Costa Rican shaded coffee farm lush rainforest edges",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website origins image. Primary request: Costa Rican shaded coffee farm lush rainforest edges. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：Costa Rican shaded coffee farm lush rainforest edges",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站origins",
+    "aiIllustration": true
+  },
+  {
+    "id": "origins-7",
+    "type": "origins",
+    "subject": "Panamanian mountain coffee landscape high mist and wildflowers",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website origins image. Primary request: Panamanian mountain coffee landscape high mist and wildflowers. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：Panamanian mountain coffee landscape high mist and wildflowers",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站origins",
+    "aiIllustration": true
+  },
+  {
+    "id": "origins-8",
+    "type": "origins",
+    "subject": "Indonesian shaded coffee orchard with tropical large leaves",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website origins image. Primary request: Indonesian shaded coffee orchard with tropical large leaves. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：Indonesian shaded coffee orchard with tropical large leaves",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站origins",
+    "aiIllustration": true
+  },
+  {
+    "id": "origins-9",
+    "type": "origins",
+    "subject": "Yemeni terraced mountain agriculture coffee landscape",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website origins image. Primary request: Yemeni terraced mountain agriculture coffee landscape. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：Yemeni terraced mountain agriculture coffee landscape",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站origins",
+    "aiIllustration": true
+  },
+  {
+    "id": "origins-10",
+    "type": "origins",
+    "subject": "Taiwan mountain coffee farm green layered slopes and morning fog",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website origins image. Primary request: Taiwan mountain coffee farm green layered slopes and morning fog. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：Taiwan mountain coffee farm green layered slopes and morning fog",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站origins",
+    "aiIllustration": true
+  },
+  {
+    "id": "brewing-1",
+    "type": "brewing",
+    "subject": "ceramic conical dripper paper filter fresh grounds bloom with water",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website brewing image. Primary request: ceramic conical dripper paper filter fresh grounds bloom with water. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：ceramic conical dripper paper filter fresh grounds bloom with water",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站brewing",
+    "aiIllustration": true
+  },
+  {
+    "id": "brewing-2",
+    "type": "brewing",
+    "subject": "flat bottom coffee dripper and clear glass server warm tabletop",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website brewing image. Primary request: flat bottom coffee dripper and clear glass server warm tabletop. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：flat bottom coffee dripper and clear glass server warm tabletop",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站brewing",
+    "aiIllustration": true
+  },
+  {
+    "id": "brewing-3",
+    "type": "brewing",
+    "subject": "French press brewing black coffee on walnut table",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website brewing image. Primary request: French press brewing black coffee on walnut table. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：French press brewing black coffee on walnut table",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站brewing",
+    "aiIllustration": true
+  },
+  {
+    "id": "brewing-4",
+    "type": "brewing",
+    "subject": "AeroPress style unbranded manual cylindrical coffee brewer on cup",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website brewing image. Primary request: AeroPress style unbranded manual cylindrical coffee brewer on cup. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：AeroPress style unbranded manual cylindrical coffee brewer on cup",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站brewing",
+    "aiIllustration": true
+  },
+  {
+    "id": "brewing-5",
+    "type": "brewing",
+    "subject": "unbranded moka pot on simple stovetop calm morning light",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website brewing image. Primary request: unbranded moka pot on simple stovetop calm morning light. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：unbranded moka pot on simple stovetop calm morning light",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站brewing",
+    "aiIllustration": true
+  },
+  {
+    "id": "brewing-6",
+    "type": "brewing",
+    "subject": "cold brew glass jar soaking coffee grounds beside serving glass",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website brewing image. Primary request: cold brew glass jar soaking coffee grounds beside serving glass. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：cold brew glass jar soaking coffee grounds beside serving glass",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站brewing",
+    "aiIllustration": true
+  },
+  {
+    "id": "brewing-7",
+    "type": "brewing",
+    "subject": "gooseneck kettle water being poured into clean dripper closeup",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website brewing image. Primary request: gooseneck kettle water being poured into clean dripper closeup. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：gooseneck kettle water being poured into clean dripper closeup",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站brewing",
+    "aiIllustration": true
+  },
+  {
+    "id": "brewing-8",
+    "type": "brewing",
+    "subject": "digital scale showing no legible text under glass coffee server",
+    "prompt": "Use case: photorealistic-natural. Asset type: premium coffee knowledge website brewing image. Primary request: digital scale showing no legible text under glass coffee server. Editorial photograph, believable physical materials, fine detail, natural warm window light, restrained shadows, premium magazine composition. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：digital scale showing no legible text under glass coffee server",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站brewing",
+    "aiIllustration": true
+  },
+  {
+    "id": "knowledge-1",
+    "type": "knowledge",
+    "subject": "botanical illustration coffee cherry cross section showing two seeds, no text",
+    "prompt": "Use case: scientific-educational. Asset type: premium coffee knowledge website knowledge image. Primary request: botanical illustration coffee cherry cross section showing two seeds, no text. Refined hand drawn gouache illustration on warm ivory paper, factual objects only, no text labels. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：botanical illustration coffee cherry cross section showing two seeds, no text",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站knowledge",
+    "aiIllustration": true
+  },
+  {
+    "id": "knowledge-2",
+    "type": "knowledge",
+    "subject": "educational illustration arabica and robusta coffee leaves and beans side by side without labels",
+    "prompt": "Use case: scientific-educational. Asset type: premium coffee knowledge website knowledge image. Primary request: educational illustration arabica and robusta coffee leaves and beans side by side without labels. Refined hand drawn gouache illustration on warm ivory paper, factual objects only, no text labels. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：educational illustration arabica and robusta coffee leaves and beans side by side without labels",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站knowledge",
+    "aiIllustration": true
+  },
+  {
+    "id": "knowledge-3",
+    "type": "knowledge",
+    "subject": "educational illustration light medium dark roasted beans in three ceramic dishes",
+    "prompt": "Use case: scientific-educational. Asset type: premium coffee knowledge website knowledge image. Primary request: educational illustration light medium dark roasted beans in three ceramic dishes. Refined hand drawn gouache illustration on warm ivory paper, factual objects only, no text labels. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：educational illustration light medium dark roasted beans in three ceramic dishes",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站knowledge",
+    "aiIllustration": true
+  },
+  {
+    "id": "knowledge-4",
+    "type": "knowledge",
+    "subject": "educational illustration coffee grinding coarse medium fine textures in three bowls",
+    "prompt": "Use case: scientific-educational. Asset type: premium coffee knowledge website knowledge image. Primary request: educational illustration coffee grinding coarse medium fine textures in three bowls. Refined hand drawn gouache illustration on warm ivory paper, factual objects only, no text labels. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：educational illustration coffee grinding coarse medium fine textures in three bowls",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站knowledge",
+    "aiIllustration": true
+  },
+  {
+    "id": "knowledge-5",
+    "type": "knowledge",
+    "subject": "educational illustration paper filter removing coffee sediment no words or arrows",
+    "prompt": "Use case: scientific-educational. Asset type: premium coffee knowledge website knowledge image. Primary request: educational illustration paper filter removing coffee sediment no words or arrows. Refined hand drawn gouache illustration on warm ivory paper, factual objects only, no text labels. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：educational illustration paper filter removing coffee sediment no words or arrows",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站knowledge",
+    "aiIllustration": true
+  },
+  {
+    "id": "knowledge-6",
+    "type": "knowledge",
+    "subject": "educational illustration sensory aroma notes citrus floral nuts chocolate around coffee cup",
+    "prompt": "Use case: scientific-educational. Asset type: premium coffee knowledge website knowledge image. Primary request: educational illustration sensory aroma notes citrus floral nuts chocolate around coffee cup. Refined hand drawn gouache illustration on warm ivory paper, factual objects only, no text labels. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：educational illustration sensory aroma notes citrus floral nuts chocolate around coffee cup",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站knowledge",
+    "aiIllustration": true
+  },
+  {
+    "id": "knowledge-7",
+    "type": "knowledge",
+    "subject": "educational illustration coffee bean storage sealed opaque jar away from sun",
+    "prompt": "Use case: scientific-educational. Asset type: premium coffee knowledge website knowledge image. Primary request: educational illustration coffee bean storage sealed opaque jar away from sun. Refined hand drawn gouache illustration on warm ivory paper, factual objects only, no text labels. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：educational illustration coffee bean storage sealed opaque jar away from sun",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站knowledge",
+    "aiIllustration": true
+  },
+  {
+    "id": "knowledge-8",
+    "type": "knowledge",
+    "subject": "educational illustration coffee extraction water passing through grounds into dark coffee",
+    "prompt": "Use case: scientific-educational. Asset type: premium coffee knowledge website knowledge image. Primary request: educational illustration coffee extraction water passing through grounds into dark coffee. Refined hand drawn gouache illustration on warm ivory paper, factual objects only, no text labels. Unified warm ivory, caramel, coffee brown and natural green palette. Landscape 3:2, 1536x1024 requested. No text, logo, watermark, branding, real merchant or product claim. This is an AI illustrative scene.",
+    "alt": "AI 示意：educational illustration coffee extraction water passing through grounds into dark coffee",
+    "date": "2026-10-12",
+    "use": "咖啡知識網站knowledge",
+    "aiIllustration": true
+  }
+]

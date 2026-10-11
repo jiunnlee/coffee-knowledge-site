@@ -1,0 +1,177 @@
+[
+  {
+    "title": "愛樂壓正置法：一杯可攜帶的浸泡咖啡",
+    "text": "以正置操作練習浸泡與輕壓，避免翻轉熱水風險。",
+    "url": "/brewing/aeropress-upright/"
+  },
+  {
+    "title": "粉水比計算：15g × 16 就是 240g 水",
+    "text": "辨認投入水量與成品液量，用同一比例擴大一杯配方。",
+    "url": "/brewing/brew-ratio/"
+  },
+  {
+    "title": "冷萃咖啡：分清即飲與濃縮比例",
+    "text": "用冷藏浸泡完成一瓶冷萃，並算清稀釋後的味道。",
+    "url": "/brewing/cold-brew/"
+  },
+  {
+    "title": "義式濃縮入門：用粉量與出杯重量校準",
+    "text": "先守住粉量與出杯重量，再用味道判斷研磨方向。",
+    "url": "/brewing/espresso-baseline/"
+  },
+  {
+    "title": "咖啡難喝怎麼救：酸薄、苦澀與不均勻",
+    "text": "把濃度、豆子與萃取拆開檢查，避免一次亂改所有引數。",
+    "url": "/brewing/extraction-troubleshooting/"
+  },
+  {
+    "title": "法式濾壓壺：保留醇厚，減少粉渣",
+    "text": "以浸泡與輕壓建立厚實口感，學會避免壓得越快越好。",
+    "url": "/brewing/french-press/"
+  },
+  {
+    "title": "研磨粗細：從流速和口感找方向",
+    "text": "刻度不能跨機器照抄，學會用固定配方校準你的磨豆機。",
+    "url": "/brewing/grind-size/"
+  },
+  {
+    "title": "冰滴咖啡：流量穩定比滴得慢更重要",
+    "text": "以粉層濕潤與滴速紀錄避免乾粉、通道和失控時間。",
+    "url": "/brewing/ice-drip/"
+  },
+  {
+    "title": "摩卡壺：小火與停止時點的濃鬱練習",
+    "text": "不壓粉、不蓋住安全閥，讓一壺濃咖啡少一點焦苦。",
+    "url": "/brewing/moka-pot/"
+  },
+  {
+    "title": "虹吸壺操作：看懂上升與迴流",
+    "text": "從密封、攪拌與移火時點，掌握虹吸壺的乾淨風味。",
+    "url": "/brewing/siphon-basics/"
+  },
+  {
+    "title": "V60 手沖：把每次注水變成可重現的風味",
+    "text": "用 15g 咖啡與 240g 水建立基準，從注水節奏判讀味道。",
+    "url": "/brewing/v60-pour-over/"
+  },
+  {
+    "title": "沖煮水溫：用兩杯比較找到甜感",
+    "text": "從壺內溫度到粉床溫度，避免用一個數字解釋所有風味。",
+    "url": "/brewing/water-temperature/"
+  },
+  {
+    "title": "阿拉比卡與羅布斯塔：物種不是品質排行榜",
+    "text": "認識兩種常見咖啡物種，也學會跳過「某一種必然比較好」的簡化判斷。",
+    "url": "/knowledge/arabica-and-robusta/"
+  },
+  {
+    "title": "悶蒸與排氣：泡泡不是品質分數",
+    "text": "理解新焙咖啡遇水的排氣現象，也知道泡泡大小不能替一杯咖啡打分。",
+    "url": "/knowledge/bloom-and-degassing/"
+  },
+  {
+    "title": "認證、產地與透明度：豆袋上的承諾怎麼讀",
+    "text": "認證有各自範圍，不能代替所有品質或交易資訊；學會看清標誌與能查證的內容。",
+    "url": "/knowledge/certification-and-transparency/"
+  },
+  {
+    "title": "咖啡豆其實是種子：從果實看懂一杯咖啡",
+    "text": "把咖啡豆放回果實裡，理解果皮、果肉與種子的關係，選豆時就有更清楚的線索。",
+    "url": "/knowledge/coffee-is-a-seed/"
+  },
+  {
+    "title": "冷萃與冰手沖：同樣冰涼，路徑不同",
+    "text": "冷萃用較低溫的水與較長接觸，冰手沖用熱水萃取後降溫；選擇取決於你喜歡的表現。",
+    "url": "/knowledge/cold-brew-versus-iced/"
+  },
+  {
+    "title": "低咖啡因咖啡：換一種選豆方式",
+    "text": "認識低咖啡因處理與標示，重點放在產品資訊與風味，而不承諾完全沒有咖啡因。",
+    "url": "/knowledge/decaf-coffee-basics/"
+  },
+  {
+    "title": "義式與濾泡：濃縮不等於深焙",
+    "text": "義式描述沖煮方式，深焙描述烘焙程度；分清兩者，才能讀懂豆袋與飲品名稱。",
+    "url": "/knowledge/espresso-and-filter/"
+  },
+  {
+    "title": "咖啡寫著莓果風味，真的加了莓果嗎？",
+    "text": "分清自然風味描述、調味咖啡與額外處理資訊，讓選購不再靠猜測。",
+    "url": "/knowledge/flavor-not-added-fruit/"
+  },
+  {
+    "title": "咖啡儲存的四個敵人：空氣、濕氣、熱與光",
+    "text": "用合理購買量、密封與穩定環境，減少一包好豆在日常使用中的風味流失。",
+    "url": "/knowledge/freshness-and-storage/"
+  },
+  {
+    "title": "研磨度怎麼調：讓味道帶領刻度",
+    "text": "磨豆機刻度無法跨機直接照抄，從可重現的起點與小幅調整開始。",
+    "url": "/knowledge/grind-size-and-control/"
+  },
+  {
+    "title": "粉水比與濃度：兩個常被混在一起的概念",
+    "text": "15 g 咖啡配 240 g 水是 1:16；它描述投入比例，不直接等於杯中濃度。",
+    "url": "/knowledge/ratio-versus-strength/"
+  },
+  {
+    "title": "淺焙、中焙、深焙：看懂標示也保留味覺",
+    "text": "烘焙程度提供方向，但不同店家的尺度不完全一樣；從實際杯中感受建立自己的對照。",
+    "url": "/knowledge/roast-level-language/"
+  },
+  {
+    "title": "單品與配方豆：兩種設計思路",
+    "text": "單品重視來源表達，配方重視組合目標；兩者都可以有清楚、好喝而值得追問的資訊。",
+    "url": "/knowledge/single-origin-and-blend/"
+  },
+  {
+    "title": "水洗、日曬、蜜處理：名稱背後的加工選擇",
+    "text": "用果肉移除與乾燥的順序，理解常見處理法，不把風味描述當成必然結果。",
+    "url": "/knowledge/washed-natural-honey/"
+  },
+  {
+    "title": "沖咖啡的水：先讓水本身乾淨好喝",
+    "text": "水不是背景角色。先比較味道與穩定性，再理解礦物質資料能告訴你的範圍。",
+    "url": "/knowledge/water-for-coffee/"
+  },
+  {
+    "title": "酸感怎麼描述：從尖酸到清脆果汁感",
+    "text": "把酸的強度、質地與甜感分開寫，避免只用酸或不酸判斷。",
+    "url": "/tasting/coffee-acidity/"
+  },
+  {
+    "title": "餘韻練習：看長度，也看留下甚麼",
+    "text": "喝下後等十秒再寫，分清香氣持續、乾澀與苦味殘留。",
+    "url": "/tasting/coffee-aftertaste/"
+  },
+  {
+    "title": "聞香練習：乾粉、熱杯與入口後的香氣",
+    "text": "用三個階段觀察香氣，不需要一開始就說出精確花果名稱。",
+    "url": "/tasting/coffee-aroma/"
+  },
+  {
+    "title": "苦味與乾澀：兩種感受，兩條排錯方向",
+    "text": "苦是味覺，乾澀是口腔觸感，別把它們全部叫作苦。",
+    "url": "/tasting/coffee-bitterness/"
+  },
+  {
+    "title": "醇厚度與質地：厚、滑、輕盈如何分開",
+    "text": "用紙濾與金屬濾網比較，看見濾材和細粉對質地的影響。",
+    "url": "/tasting/coffee-body/"
+  },
+  {
+    "title": "咖啡甜感：不是加糖，也不只是一個香氣詞",
+    "text": "把糖香聯想、味覺與酸苦平衡分開，找到自己喜歡的甜。",
+    "url": "/tasting/coffee-sweetness/"
+  },
+  {
+    "title": "家庭杯測：用浸泡公平比較兩款咖啡",
+    "text": "固定粉水比與時間，練習分辨批次，不冒稱正式評分。",
+    "url": "/tasting/home-cupping/"
+  },
+  {
+    "title": "寫下能回到好杯的品飲筆記",
+    "text": "把事實、描述與偏好分開，每次只留下幾項有用觀察。",
+    "url": "/tasting/tasting-notebook/"
+  }
+]

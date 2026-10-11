@@ -1,0 +1,1 @@
+{"name":"coffee-knowledge-site","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"node scripts/serve.mjs","build":"node scripts/build.mjs","test":"node scripts/check.mjs"},"dependencies":{"marked":"15.0.12","yaml":"2.9.1"},"devDependencies":{"@playwright/test":"1.56.0","sharp":"0.35.5"},"engines":{"node":">=20"}}
